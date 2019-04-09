@@ -1,0 +1,43 @@
+﻿1>------ Build started: Project: ChattingApp, Configuration: Release Any CPU ------
+1>  ChattingApp -> F:\Shohag\C#\ASP.NET\Working\ChattingApp\ChattingApp\bin\ChattingApp.dll
+2>------ Publish started: Project: ChattingApp, Configuration: Release Any CPU ------
+2>Transformed Web.config using F:\Shohag\C#\ASP.NET\Working\ChattingApp\ChattingApp\Web.Release.config into obj\Release\TransformWebConfig\transformed\Web.config.
+2>Auto ConnectionString Transformed Views\Web.config into obj\Release\CSAutoParameterize\transformed\Views\Web.config.
+2>Auto ConnectionString Transformed obj\Release\TransformWebConfig\transformed\Web.config into obj\Release\CSAutoParameterize\transformed\Web.config.
+2>Copying all files to temporary location below for package/publish:
+2>obj\Release\Package\PackageTmp.
+2>Start Web Deploy Publish the Application/package to https://chattingapp.scm.azurewebsites.net/msdeploy.axd?site=ChattingApp ...
+2>Adding ACLs for path (ChattingApp)
+2>Adding ACLs for path (ChattingApp)
+2>Updating file (ChattingApp\App\app.js).
+2>Updating file (ChattingApp\ApplicationInsights.config).
+2>Updating file (ChattingApp\bin\ApplicationInsights.config).
+2>Updating file (ChattingApp\bin\ChattingApp.dll).
+2>Updating file (ChattingApp\bin\Microsoft.AI.DependencyCollector.dll).
+2>Updating file (ChattingApp\bin\Microsoft.AI.PerfCounterCollector.dll).
+2>Updating file (ChattingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll).
+2>Updating file (ChattingApp\bin\Microsoft.AI.Web.dll).
+2>Updating file (ChattingApp\bin\Microsoft.AI.WindowsServer.dll).
+2>Updating file (ChattingApp\bin\Microsoft.ApplicationInsights.dll).
+2>Updating file (ChattingApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll).
+2>Updating file (ChattingApp\bin\System.Diagnostics.DiagnosticSource.dll).
+2>Updating file (ChattingApp\Connected Services\Application Insights\ConnectedService.json).
+2>Updating file (ChattingApp\Content\bootstrap.css).
+2>Updating file (ChattingApp\Content\Site.css).
+2>Updating file (ChattingApp\Views\Account\Login.cshtml).
+2>Updating file (ChattingApp\Views\Account\Register.cshtml).
+2>Updating file (ChattingApp\Views\Home\About.cshtml).
+2>Updating file (ChattingApp\Views\Home\ChatView.cshtml).
+2>Updating file (ChattingApp\Views\Home\Contact.cshtml).
+2>Updating file (ChattingApp\Views\Home\Index.cshtml).
+2>Updating file (ChattingApp\Views\Manage\Index.cshtml).
+2>Updating file (ChattingApp\Views\Shared\_Layout.cshtml).
+2>Updating file (ChattingApp\Views\Shared\_LoginPartial.cshtml).
+2>Updating file (ChattingApp\Views\Web.config).
+2>Updating file (ChattingApp\Web.config).
+2>Adding ACLs for path (ChattingApp)
+2>Adding ACLs for path (ChattingApp)
+2>Publish Succeeded.
+2>Web App was published successfully http://chattingapp.azurewebsites.net/
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
